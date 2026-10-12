@@ -6,6 +6,8 @@ I receive around 60 pull requests every semester and have to manually delete eac
 
 # Github Actions Lab
 
+[![Run App Connett, Aden](https://github.com/EEE153/GithubActions/actions/workflows/ci.yml/badge.svg)](https://github.com/EEE153/GithubActions/actions/workflows/ci.yml)
+
 Because Travis CI is no longer free, we are going to look at how Github Actions can provide continuous integration on a sample project.
 
 Continuous integration can be used to perfom checks on written code, making sure that unit tests always pass or that formatting is followed, and that when changes are made, they don't break other areas of the code.
